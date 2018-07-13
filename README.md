@@ -6,3 +6,7 @@
 		*  stacked attention + residual learning 
 		
 -   Multimodal Unsupervised Image-to-Image Translation[[paper]](https://arxiv.org/abs/1804.04732) [[slides]](https://drive.google.com/open?id=19EWbGG51MjRYIyr5Q5LN_VHPTHrnoFDg)- Xun Huang  et al.,  2018 archive 
+
+-   FaceNet : A Unified Embedding for Face Recognition and Clustering[[paper]](https://arxiv.org/pdf/1503.03832.pdf) [[slides]](https://drive.google.com/file/d/1mD2Kem-M_kHYNkdnQZSwKHHZ_CTS5Zvm/view)- Florian Schroff  et al.,  2015 CVPR
+	 *  Embedding face to a 128 dimensional vector 
+	 *  Triplet Loss  
