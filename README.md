@@ -14,3 +14,6 @@
 -   DenseASPP for Semantic Segmentation in Street Scenes[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) [[slides]](https://docs.google.com/presentation/d/1cpQGkbsHxmjLMTtliZG79CsuJnKsKZUy4zMEAxDGR7E/edit?usp=sharing)- Maoke Yang  et al.,  2018 CVPR
 	 *  DenseNet + ASPP 
 	 *  Cityscapes dataset SOTA (78.9 mIoU)
+
+-   Few-Shot Segmentation Propagation with Guided Networks[[paper]](https://people.eecs.berkeley.edu/~rakelly/Rakelly_Shelhamer_revolver.pdf) [[slides]](https://www.dropbox.com/s/up644lqctvwta68/180727_fewshot_segmentation_guidednet.pdf?dl=0)- Kate Rakelly  et al.,  2018 archive
+	 *  Few-Shot learning 
