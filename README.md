@@ -17,3 +17,11 @@
 
 -   Few-Shot Segmentation Propagation with Guided Networks[[paper]](https://people.eecs.berkeley.edu/~rakelly/Rakelly_Shelhamer_revolver.pdf) [[slides]](https://www.dropbox.com/s/up644lqctvwta68/180727_fewshot_segmentation_guidednet.pdf?dl=0)- Kate Rakelly  et al.,  2018 archive
 	 *  Few-Shot learning 
+
+
+## 2018.08 
+-    Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks[[paper]](https://arxiv.org/pdf/1805.07925.pdf) [[slides]](https://drive.google.com/open?id=1wEW-ljQYE4rW9rdVTCijNjUO5lPDejXr)- H Nam et al.,  2018 archive  
+
+-    To learn image super-resolution, use a GAN to learn how to do image degradation first[[paper]](https://arxiv.org/pdf/1807.11458.pdf) - A Bulat et al.,  2018 ECCV  
+
+-    GANimation: Anatomically-aware Facial Animation from a Single Image[[paper]](https://arxiv.org/pdf/1807.09251.pdf) - A Pumarola et al.,  2018 ECCV  
