@@ -25,3 +25,5 @@
 -    To learn image super-resolution, use a GAN to learn how to do image degradation first[[paper]](https://arxiv.org/pdf/1807.11458.pdf) - A Bulat et al.,  2018 ECCV  
 
 -    GANimation: Anatomically-aware Facial Animation from a Single Image[[paper]](https://arxiv.org/pdf/1807.09251.pdf) - A Pumarola et al.,  2018 ECCV  
+
+-   Context encoding for semantic segmentation[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf) [[slides]](https://drive.google.com/file/d/1CHjoHbTVjJVwU58qJcpihX5kAHmCWXQH/view?usp=sharing) - H Zhange et al.,  2018 CVPR 
